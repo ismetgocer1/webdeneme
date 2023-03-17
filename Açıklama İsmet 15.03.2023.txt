@@ -1,0 +1,13 @@
+bu klasörün adres kısmına tıkladım, CMD yazdım, gelen terminalde;
+
+git remote add origin https://github.com/ismetgocer1/webdeneme.git   yazıp, enter yaptım.
+
+git push -u origin master yazıp, enter yaptım.
+
+sonra git push yaptım ve bu kodu GitHub'a gönderebildim...
+
+Her bir çalışma sayfası ayrı bir versiyon oluyor.
+
+Soru: Peki bir dosyadan başka dosyalara bağlantı kurduğumuzda, 
+bu iki dosyayı birden nasıl push edeceğiz? Aksi durumda ilk dosyadaki link çalışmaz. 
+
